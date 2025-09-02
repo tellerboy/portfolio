@@ -1,6 +1,6 @@
 /* ===========================
    Modern Single-File Portfolio
-   styles.css
+   style.css
    - Dark mode base with cool accent
    - Responsive layout using Flexbox & Grid
    - No JavaScript required
@@ -431,3 +431,4 @@ a:focus{ outline: none; }
    --accent: #3b82f6; (cool blue) or keep #2dd4bf (teal) */
 
 /* End of stylesheet */
+
